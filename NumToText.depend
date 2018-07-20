@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1532083935 source:c:\e1\codes\numtotext\main.cpp
+	<iostream>
+	"NumberToText.h"
+
+1501329856 c:\e1\codes\numtotext\numbertotext.h
+	<string>
+	<iostream>
+
+1532083952 source:c:\e1\codes\numtotext\numbertotext.cpp
+	"NumberToText.h"
+
